@@ -3,6 +3,7 @@
 - 👨🏽‍💻  I’m currently pursuing my undergraduate degree in Computer Science and Engineering
 - 🌱 I’m currently developing AI/ML and Data Science projects
 - 🤔 My interest lies in font-end web development, Data Science, Machine Learning, Deep Learning, Mathematics and Problem Solving
+- 📄 [Resume](https://chiraayupm.github.io/chiraayupm/assets/Chiraayu_Meghnani_.pdf)
 
 
 <h2 align="center"><u>My Github Stats</u></h2>
