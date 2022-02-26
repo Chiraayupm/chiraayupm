@@ -1,16 +1,20 @@
-### Hi there 👋
+**About Me!**
 
-<!--
-**Chiraayupm/chiraayupm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏽‍💻  I’m currently pursuing my undergraduate degree in Computer Science and Engineering
+- 🌱 I’m currently developing AI/ML and Data Science projects
+- 🤔 My interest lies in font-end web development, Data Science, Machine Learning, Deep Learning, Mathematics and Problem Solving
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center"><u>My Github Stats</u></h2>
+<p align="center">
+<br>
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chiraayupm&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
+<br>
+<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chiraayupm&theme=holi-theme">
+</p>
+
+
+
+-----
